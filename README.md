@@ -23,7 +23,7 @@
 <h3 align="center">💻 Tech Stack</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,cs,nodejs,nestjs,dotnet,spring,mongodb,firebase,aws,docker,nginx,git" />
+  <img src="https://skillicons.dev/icons?i=java,js,cs,nodejs,nestjs,dotnet,spring,mongodb,firebase,aws,docker,nginx,git&perline=8" height="40" />
 </div>
 
 ###
@@ -41,19 +41,17 @@
 
 ###
 
-<h3 align="left">🔥 GitHub Stats :</h3>
-
-###
+<h3 align="center">🔥 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VuQuangMinh1212&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VuQuangMinh1212&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=VuQuangMinh1212&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VuQuangMinh1212&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VuQuangMinh1212&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VuQuangMinh1212&theme=tokyonight&hide_border=true" height="200" alt="streak stats" />
 </div>
 
 ###
