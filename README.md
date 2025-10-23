@@ -23,7 +23,7 @@
 <h3 align="center">💻 Tech Stack</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,cs,nodejs,nestjs,dotnet,spring,mongodb,firebase,aws,docker,nginx,git&perline=8" height="50" />
+  <img src="https://skillicons.dev/icons?i=java,js,cs,nodejs,nestjs,dotnet,spring,mongodb,firebase,aws,docker,nginx,git&perline=8" height="45" />
 </div>
 
 ###
