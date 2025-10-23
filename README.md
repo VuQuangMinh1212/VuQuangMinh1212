@@ -20,20 +20,10 @@
 
 ###
 
-<h3 align="center">�️ Tech Stack</h3>
+<h3 align="center">💻 Tech Stack</h3>
 
 <div align="center">
-  <h4>💻 Programming Languages</h4>
-  <img src="https://skillicons.dev/icons?i=java,js,cs,html,css" height="45" />
-  
-  <h4>🚀 Frameworks & Libraries</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,spring" height="45" />
-  
-  <h4>🗄️ Databases & Cloud</h4>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,aws,docker" height="45" />
-  
-  <h4>🔧 Tools & Others</h4>
-  <img src="https://skillicons.dev/icons?i=nginx,git,postman,vscode" height="45" />
+  <img src="https://skillicons.dev/icons?i=java,js,cs,nodejs,nestjs,dotnet,spring,mongodb,firebase,aws,docker,nginx,git" />
 </div>
 
 ###
